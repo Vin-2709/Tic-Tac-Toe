@@ -1,0 +1,18 @@
+
+/* #id{
+    font-size:50px;
+} */
+
+div{
+    /* height:600px;
+    width:100%; */
+    
+    margin-left: 1000px;
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color:black;
+}

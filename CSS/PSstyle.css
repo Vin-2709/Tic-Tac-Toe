@@ -1,0 +1,82 @@
+/* h1{
+    text-align: center;
+}
+p{
+    text-transform: capitalize;
+    
+}
+*{
+    font-family:"Times New Roman";
+}
+
+#outer{
+    font-size:  25px; ;
+}
+
+#inner{
+    font-size: 10px;
+} */
+
+/* div{
+    height: 100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+
+/* #navbar{
+    background-color: black;
+    height:60px;
+    
+}
+#logo{
+    color: orange;
+    size: 25px;
+}
+
+a{
+    color: white;
+    size:23px;
+    margin-right: 200px;
+
+}
+input{
+    background-color: white;
+
+}
+button{
+        color:white;
+        background-color:orange ;
+} */
+
+div{
+    height:60px;
+    width: 70px;
+    background-color: black;
+}
+
+@media(max-width:300px){
+    div{
+        background-color: green;
+    }
+}
+
+
+@media(min-width:300px) and (max-width:400px){
+    div{
+        background-color: pink;
+    }
+}
+
+@media(min-width:400px) and (max-width:600px){
+    div{
+        background-color: red;
+    }
+}
+
+@media(min-width:600px){
+    div{
+        background-color: blue;
+    }
+}
